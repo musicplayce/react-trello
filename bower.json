@@ -12,7 +12,7 @@
     "trello",
     "board"
   ],
-  "homepage": "https://github.com/rcdexta/react-trello",
+  "homepage": "https://github.com/musicplayce/react-trello",
   "ignore": [
     "**/.*",
     "node_modules",
